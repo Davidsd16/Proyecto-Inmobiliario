@@ -1,7 +1,8 @@
 <?php
+
 const SERVERURL="http://localhost/prestamos/";
 
-const COMPANY = "sistema prestamos";
+const COMPANY = "Inmobiliaria David";
 
 const MONEDA = "$";
 
