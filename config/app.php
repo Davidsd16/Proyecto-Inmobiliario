@@ -1,6 +1,6 @@
 <?php
 
-const SERVERURL="http://localhost/prestamos/";
+const SERVERURL="http:://localhost/prestamos/";
 
 const COMPANY = "Inmobiliaria David";
 
